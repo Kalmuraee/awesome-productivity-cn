@@ -187,3 +187,6 @@
 - [LyX](https://www.lyx.org/)(*跨平台*) - 所见即所想的**开源**文档处理软件，背靠数学公式吊打一切的 LaTeX，但与 LaTeX 的陡峭学习曲线相比却做到了上手难度极低，可输出为 LaTeX，写论文的好帮手。
 
 - [Notah.ai](https://notah.ai/) - AI会议助手
+
+## Notah.ai
+- [Notah.ai](https://notah.ai/) - AI meeting assistant for automatic transcription and summarization
